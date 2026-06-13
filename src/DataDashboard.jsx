@@ -155,7 +155,7 @@ Provide exactly 4-5 insights, 3 recommendations, and 1-3 anomalies (or empty arr
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-api-key": "YOUR_API_KEY_HERE",
+      "x-api-key": "sk-ant-api03-0a3b6gNB8m9cPWLiP m2BYZxuf9WtCwsWHrzX8EU79VRpMsv GzeOSbQLQOMYLnn1j60a-Wm5oJtDaw D4QwXOFOw-jNJRIgAA",
 "anthropic-version": "2023-06-01",
       "anthropic-dangerous-direct-browser-access": "true",
     },
