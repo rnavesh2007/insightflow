@@ -136,7 +136,7 @@ Rules: 3 insights, 2 recommendations, 1 anomaly max. Keep all text under 20 word
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-api-key": "YOUR_API_KEY_HERE",
+      "x-api-key": "sk-ant-api03-0a3b6gNB8m9cPWLiP m2BYZxuf9WtCwsWHrzX8EU79VRpMsv GzeOSbQLQOMYLnn1j60a-Wm5oJtDawD4QwXOFOw-jNJRIgAA",
       "anthropic-version": "2023-06-01",
       "anthropic-dangerous-direct-browser-access": "true",
     },
