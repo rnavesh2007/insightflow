@@ -161,7 +161,7 @@ Provide exactly 4-5 insights, 3 recommendations, and 1-3 anomalies (or empty arr
     },
     body: JSON.stringify({
       model: "claude-sonnet-4-6",
-      max_tokens: 1000,
+      max_tokens: 2000,
       messages: [{ role: "user", content: prompt }],
     }),
   });
