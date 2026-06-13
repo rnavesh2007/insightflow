@@ -155,6 +155,8 @@ Provide exactly 4-5 insights, 3 recommendations, and 1-3 anomalies (or empty arr
     method: "POST",
     headers: {
       "Content-Type": "application/json",
+      "x-api-key": "sk-ant-உன்key இங்க",
+"anthropic-version": "2023-06-01",
       "anthropic-dangerous-direct-browser-access": "true",
     },
     body: JSON.stringify({
